@@ -2,3 +2,15 @@ td {
   padding: 20px;
   border: solid black 1px;
 }
+
+.noneSelected {
+  background-color: white;
+}
+
+.selectedX {
+  background-color: blue;
+}
+
+.selectedO {
+  background-color: yellow;
+}
